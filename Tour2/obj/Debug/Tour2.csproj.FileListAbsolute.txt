@@ -135,3 +135,5 @@ C:\Users\SRIKANTH\source\repos\Tour2\Tour2\obj\Debug\Tour2.pdb
 C:\Users\SRIKANTH\source\repos\Tour2\Tour2\bin\Debug\log4net.dll
 C:\Users\SRIKANTH\source\repos\Tour2\Tour2\bin\Debug\log4net.xml
 C:\Users\SRIKANTH\source\repos\Tour2\Tour2\obj\Debug\Tour2.csprojAssemblyReference.cache
+C:\Users\SRIKANTH\Source\Repos\PittalaSrikanth\ProjectB\Tour2\obj\Debug\Tour2.dll
+C:\Users\SRIKANTH\Source\Repos\PittalaSrikanth\ProjectB\Tour2\obj\Debug\Tour2.pdb
