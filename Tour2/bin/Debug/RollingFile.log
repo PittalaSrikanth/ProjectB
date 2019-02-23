@@ -1,0 +1,15 @@
+24-Feb-2019-00:07:32 [Tour2.Log4net.TestLogger] [DEBUG] [TestLog4net] - This is debug log info
+24-Feb-2019-00:07:33 [Tour2.Log4net.TestLogger] [ERROR] [TestLog4net] - This is Error log info
+24-Feb-2019-00:07:33 [Tour2.Log4net.TestLogger] [WARN] [TestLog4net] - This is Warn log info
+24-Feb-2019-00:07:33 [Tour2.Log4net.TestLogger] [ERROR] [TestLog4net] - This is Error log info
+24-Feb-2019-00:07:33 [Tour2.Log4net.TestLogger] [FATAL] [TestLog4net] - This is Fatal log info
+24-Feb-2019-00:11:28 [Tour2.Log4net.TestLogger] [DEBUG] [TestLog4net] - This is debug log info
+24-Feb-2019-00:11:28 [Tour2.Log4net.TestLogger] [ERROR] [TestLog4net] - This is Error log info
+24-Feb-2019-00:11:28 [Tour2.Log4net.TestLogger] [WARN] [TestLog4net] - This is Warn log info
+24-Feb-2019-00:11:28 [Tour2.Log4net.TestLogger] [ERROR] [TestLog4net] - This is Error log info
+24-Feb-2019-00:11:28 [Tour2.Log4net.TestLogger] [FATAL] [TestLog4net] - This is Fatal log info
+24-Feb-2019-00:12:10 [Tour2.Log4net.TestLogger] [DEBUG] [TestLog4net] - This is debug log info
+24-Feb-2019-00:12:10 [Tour2.Log4net.TestLogger] [ERROR] [TestLog4net] - This is Error log info
+24-Feb-2019-00:12:10 [Tour2.Log4net.TestLogger] [WARN] [TestLog4net] - This is Warn log info
+24-Feb-2019-00:12:10 [Tour2.Log4net.TestLogger] [ERROR] [TestLog4net] - This is Error log info
+24-Feb-2019-00:12:10 [Tour2.Log4net.TestLogger] [FATAL] [TestLog4net] - This is Fatal log info
